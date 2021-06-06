@@ -9,3 +9,4 @@ Creating a new branch is quick and simple.
 One more new modified on 5th May 23:45.
 Test Stash
 Test cherry-pick
+And cherry-pick double edit
