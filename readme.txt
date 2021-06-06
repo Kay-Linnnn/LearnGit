@@ -7,3 +7,4 @@ Test 13:59 28th March.
 Creating a branch "dev"
 Creating a new branch is quick and simple.
 One more new modified on 5th May 23:45.
+Test Stash
