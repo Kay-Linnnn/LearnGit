@@ -11,4 +11,4 @@ Test Stash
 Test cherry-pick
 And cherry-pick double edit
 I am new branch m1
-
+Edit on branch m1
